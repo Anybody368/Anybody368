@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hello World
+
+I'm a French student in IT, learning fullstack development.
+
+I can use many technologies and programing languages, but I do have a soft spot for Java.
+
+Feel free to reuse my code if you somehow have the need for it!
 
 <!--
 **Anybody368/Anybody368** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
