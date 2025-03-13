@@ -6,6 +6,8 @@ I can use many technologies and programing languages, but I do have a soft spot 
 
 Feel free to reuse my code if you somehow have the need for it!
 
+You can contact me through my professional email : samuel.chanal@etu.unistra.fr, or on Discord with the link in my bio or the tag @anybody368.
+
 <!--
 **Anybody368/Anybody368** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
